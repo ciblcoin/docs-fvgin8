@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-a8vhtv.lapinandwolf.co.nz/sitemap.xml
